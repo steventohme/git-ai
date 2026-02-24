@@ -1,0 +1,38 @@
+src/authorship/internal_db.rs
+  6d4c111e0c42af33 20,38,40,42,44,46,51,65,67,69,74
+src/metrics/db.rs
+  6d4c111e0c42af33 18,25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.5",
+  "base_commit_sha": "70911cfe8a8d873c1fa73dad21bc6760a31ec2ae",
+  "prompts": {
+    "6d4c111e0c42af33": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4e964cce-6957-4b8d-acfe-d48933c90c17",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "steventohme <steven@workweave.ai>",
+      "messages": [],
+      "total_additions": 13,
+      "total_deletions": 13,
+      "accepted_lines": 13,
+      "overriden_lines": 0
+    },
+    "f6446fe96894bb9f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bb1da7db-582f-4a7d-9ba0-356461b3c98a",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "steventohme <steven@workweave.ai>",
+      "messages": [],
+      "total_additions": 468,
+      "total_deletions": 15,
+      "accepted_lines": 467,
+      "overriden_lines": 0
+    }
+  }
+}
