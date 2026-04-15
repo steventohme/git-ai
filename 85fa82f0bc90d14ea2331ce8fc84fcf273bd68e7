@@ -1,0 +1,23 @@
+src/commands/checkpoint_agent/opencode_preset.rs
+  163696af8ecc789d 615-623,637-642,644-646,923-925,928,931,936,939,948,951,954-956,961-964,975-985
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "85fa82f0bc90d14ea2331ce8fc84fcf273bd68e7",
+  "prompts": {
+    "163696af8ecc789d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "63863490-851a-40ec-95ee-311c1c6800d7",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "steventohme",
+      "messages": [],
+      "total_additions": 83,
+      "total_deletions": 52,
+      "accepted_lines": 82,
+      "overriden_lines": 0
+    }
+  }
+}
